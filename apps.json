@@ -121,6 +121,61 @@
     "silentArgs": ["--silent"]
   },
   {
+    "id": "antigravity-ide",
+    "nama": "Antigravity IDE",
+    "kategori": "IDE & Editor",
+    "deskripsi": "Platform pengembangan software agentic canggih dari Google dengan integrasi AI agent mendalam.",
+    "ikon": "Bot",
+    "source": "winget",
+    "wingetId": "Google.AntigravityIDE",
+    "installType": "winget",
+    "silentArgs": ["--silent"]
+  },
+  {
+    "id": "antigravity",
+    "nama": "Antigravity",
+    "kategori": "IDE & Editor",
+    "deskripsi": "Lingkungan pengembangan dan runtime agentic AI Google untuk alur kerja otomasi kode.",
+    "ikon": "Bot",
+    "source": "winget",
+    "wingetId": "Google.Antigravity",
+    "installType": "winget",
+    "silentArgs": ["--silent"]
+  },
+  {
+    "id": "trae",
+    "nama": "Trae IDE",
+    "kategori": "IDE & Editor",
+    "deskripsi": "AI-powered adaptive IDE dari ByteDance dengan kolaborasi agen AI cerdas dan auto-completion.",
+    "ikon": "Sparkles",
+    "source": "winget",
+    "wingetId": "ByteDance.Trae",
+    "installType": "winget",
+    "silentArgs": ["--silent"]
+  },
+  {
+    "id": "kiro",
+    "nama": "Kiro IDE",
+    "kategori": "IDE & Editor",
+    "deskripsi": "Agentic IDE dari AWS untuk spec-driven development, prototyping otomatis, dan sandbox kode.",
+    "ikon": "Terminal",
+    "source": "winget",
+    "wingetId": "Amazon.Kiro",
+    "installType": "winget",
+    "silentArgs": ["--silent"]
+  },
+  {
+    "id": "opencode",
+    "nama": "OpenCode IDE",
+    "kategori": "IDE & Editor",
+    "deskripsi": "Desktop & terminal AI coding agent open-source dengan dukungan multi-agent dan puluhan provider LLM.",
+    "ikon": "Code2",
+    "source": "winget",
+    "wingetId": "SST.OpenCodeDesktop",
+    "installType": "winget",
+    "silentArgs": ["--silent"]
+  },
+  {
     "id": "git",
     "nama": "Git Version Control",
     "kategori": "Dev Tools",
@@ -176,8 +231,8 @@
     "silentArgs": ["--silent"]
   },
   {
-    "id": "antigravity",
-    "nama": "Google Antigravity 2.0",
+    "id": "antigravity-hub",
+    "nama": "Google Antigravity 2.0 (Hub)",
     "kategori": "Dev Tools",
     "deskripsi": "Central command center AI agents canggih untuk eksekusi kode, tool calling & automasi.",
     "ikon": "Sparkles",
@@ -431,6 +486,29 @@
     "wingetId": "OBSProject.OBSStudio",
     "installType": "winget",
     "silentArgs": ["--silent"]
+  },
+  {
+    "id": "capcut",
+    "nama": "CapCut Video Editor",
+    "kategori": "Media",
+    "deskripsi": "Aplikasi editing video populer serbaguna dengan template, efek bertenaga AI, dan timeline fleksibel.",
+    "ikon": "Video",
+    "source": "winget",
+    "wingetId": "ByteDance.CapCut",
+    "installType": "winget",
+    "silentArgs": ["--silent"]
+  },
+  {
+    "id": "opencut",
+    "nama": "OpenCut Video Editor",
+    "kategori": "Media",
+    "deskripsi": "Alternatif CapCut open-source & gratis berbasis timeline, keyframe, dan pemrosesan privasi lokal.",
+    "ikon": "Scissors",
+    "source": "github",
+    "githubRepo": "OpenCut-app/OpenCut",
+    "websiteUrl": "https://opencut.app",
+    "installType": "direct",
+    "silentArgs": []
   },
   {
     "id": "steam",

@@ -27,11 +27,16 @@ const BRAND_MAP: Record<string, string> = {
   'arc': 'siArc',
 
   // Dev & Editors
+  'antigravity ide': 'siGoogle',
+  'antigravity': 'siGoogle',
+  'google antigravity': 'siGoogle',
+  'trae ide': 'siBytedance',
+  'trae': 'siBytedance',
   'visual studio code': 'siVscodium', // closest brand icon or fallback
   'vscode': 'siVscodium',
   'vscodium': 'siVscodium',
-  'cursor ai editor': 'siOpenai',
-  'cursor': 'siOpenai',
+  'cursor ai editor': 'siVscodium',
+  'cursor': 'siVscodium',
   'intellij idea community': 'siIntellijidea',
   'intellij': 'siIntellijidea',
   'pycharm community': 'siPycharm',
@@ -94,6 +99,8 @@ const BRAND_MAP: Record<string, string> = {
   'zoom': 'siZoom',
 
   // Media
+  'capcut': 'siBytedance',
+  'capcut video editor': 'siBytedance',
   'spotify': 'siSpotify',
   'vlc media player': 'siVlcmediaplayer',
   'vlc': 'siVlcmediaplayer',
