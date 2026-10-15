@@ -1,0 +1,32 @@
+[
+  {
+    "id": "web-dev",
+    "nama": "Web Dev",
+    "deskripsi": "Paket tempur developer web & software: IDE, Git, Antigravity AI, NodeJS, Supabase, Postman & Server",
+    "appIds": ["chrome", "vscode", "cursor", "antigravity", "antigravity-cli", "git", "github-desktop", "postman", "nodejs", "supabase-local", "laragon", "sevenzip"]
+  },
+  {
+    "id": "content-creator",
+    "nama": "Content Creator",
+    "deskripsi": "Paket komplit kreator konten: Ekosistem ArtCraft, OBS Studio, Canva & Media",
+    "appIds": ["chrome", "artcraft", "photocraft", "filmcraft", "lightcraft", "canva", "obs", "spotify", "vlc", "sevenzip"]
+  },
+  {
+    "id": "gamer",
+    "nama": "Gamer",
+    "deskripsi": "Siap mabar tanpa drama: Steam, Epic, Discord, VC++ AIO & DirectX Runtimes",
+    "appIds": ["steam", "epicgames", "discord", "vcredist", "directx", "vlc", "sevenzip"]
+  },
+  {
+    "id": "kantor",
+    "nama": "Kantor & Administrasi",
+    "deskripsi": "Kebutuhan kerja harian: Browser, Office, PDF Reader, Zoom & WhatsApp",
+    "appIds": ["chrome", "msoffice", "wpsoffice", "acrobat-reader", "zoom", "whatsapp", "sevenzip"]
+  },
+  {
+    "id": "minimalis",
+    "nama": "Minimalis",
+    "deskripsi": "Hanya utility esensial dan runtime penting untuk PC baru yang bersih",
+    "appIds": ["chrome", "sevenzip", "vlc", "vcredist"]
+  }
+]

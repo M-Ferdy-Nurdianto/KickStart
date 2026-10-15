@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build & Bundler Outputs
+dist/
+dist-electron/
+release/
+build/
+*.exe
+
+# Environment & IDE
+.env
+.env.local
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS & Logs
+Thumbs.db
+[Dd]esktop.ini
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary scripts
+generate-icons.js
+process-logo.js
